@@ -24,9 +24,8 @@ This analysis investigates traffic patterns, user behavior, and engagement acros
 ## Tools & Technologies
 
 - Python (Pandas, Matplotlib, Seaborn)
-- Google Analytics (or any web analytics dataset)
-- Jupyter Notebook
-- Excel/CSV data files
+- Google Colab
+- CSV data files
 
 ## Folder Structure
 
