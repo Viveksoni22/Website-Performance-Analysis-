@@ -27,14 +27,4 @@ This analysis investigates traffic patterns, user behavior, and engagement acros
 - Google Colab
 - CSV data files
 
-## Folder Structure
 
-website-performance-analysis/
-│
-├── data/             # Contains raw analytics exports (CSV, Excel) and cleaned data
-│
-├── notebooks/        # Google Colab for EDA, visualizations, and analysis of each question
-│
-├── reports/          # Graphs, charts, and final summary reports (PDFs, PNGs, etc.)
-│
-└── README.md         # Project overview, objectives, and instructions
